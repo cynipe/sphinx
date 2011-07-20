@@ -1,0 +1,9 @@
+.installed.cfg
+*.pyc
+app/lib/dist
+bin/*
+!bin/README.txt
+eggs
+var/downloads/*
+!var/downloads/README.txt
+var/parts
